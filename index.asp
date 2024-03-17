@@ -1,3 +1,3 @@
 <%
-response.write time()
+response.write "aqui tem asp"
 %>
